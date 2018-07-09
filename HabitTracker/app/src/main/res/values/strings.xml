@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="hello">What are you planning to do today? Follow the schedule.</string>
+</resources>
